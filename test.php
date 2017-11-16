@@ -3,5 +3,6 @@ echo "string";
 
 phpinfo();
 
+return;
 
  ?>
