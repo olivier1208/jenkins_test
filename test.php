@@ -3,6 +3,4 @@ echo "string";
 
 phpinfo();
 
-return;
-
  ?>
